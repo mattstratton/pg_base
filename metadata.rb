@@ -1,6 +1,6 @@
 name             'pg_base'
-maintainer       'The Authors'
-maintainer_email 'you@example.com'
+maintainer       'Matt Stratton'
+maintainer_email 'mattstratton@chef.io'
 license          'all_rights'
 description      'Installs/Configures pg_base'
 long_description 'Installs/Configures pg_base'
